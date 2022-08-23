@@ -1,0 +1,239 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+
+}
+
+/* main styles */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    height: 1320px;
+
+}
+
+/* main-content */
+.main-content {
+    background-color: #f9f6f0;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+/* about styles */
+.about {
+    margin-bottom: 40px;
+}
+
+.about-developer {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #670B0B;
+    margin-bottom: 20px;
+}
+
+.about-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #670B0B;
+    margin-bottom: 25px;
+}
+
+.about-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #670B0B;;
+    width: 400px;
+}
+
+/* projects styles*/
+.projects {
+    margin-bottom: 50px;
+}
+
+/* projects-title styles*/
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #670B0B;
+    margin-bottom: 10px;
+}
+
+.progects-list {
+    padding: 0;
+    margin-left: 15px;
+}
+
+.projects-numer {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color:#670B0B;
+
+}
+
+.projects-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #670B0B;
+    margin-left: 10px;
+}
+
+.projects-https {
+    color: #670B0B;;
+}
+
+.projects-bracket {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #670B0B;
+
+}
+
+/* work styles */
+.work {}
+
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #670B0B;
+    margin-bottom: 10px;
+}
+
+.organization {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.work-date {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+
+.line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #670B0B;
+}
+
+.work-list {
+    padding: 0;
+    margin-left: 15px;
+}
+
+.work-list-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #670B0B;
+}
+
+/* education styles*/
+.education {}
+
+.management {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #670B0B;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* sidebar style */
+.sidebar {
+    background-color: peachpuff;
+    padding-top: 40px;
+    width: 370px;
+}
+
+/* sidebar-titles */
+.sidebar-titles {
+    color: #670B0B;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+/* contacts */
+.contacts {
+    margin: 50px 30px 45px 40px;
+}
+
+/* contacts-letters */
+.contacts-letters,
+.facebook {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;
+    margin-right: 5px;
+}
+
+/* contacts-link */
+.contacts-link,
+.facebook-address {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #670B0B;
+    opacity: 0.5
+}
+
+/* skills-t */
+.skills-t,
+.skills-s {
+    margin: 45px auto 45px 40px;
+}
+
+.tech-skills-list,
+.tech-soft-skills {
+    color: #670B0B;
+    padding: 0;
+    margin-left: 18px;
+}
+
+.tech-skills-item,
+.tech-soft-item {
+    color: #FB6D3A;
+}
+
+.tech-skills-text,
+.tech-soft-text {
+    color: #670B0B;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
